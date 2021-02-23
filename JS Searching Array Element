@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Element search in Array</title>
+</head>
+<body>
+<script type = text/javascript>
+var inputArray = [];
+var size = prompt("Enter size of array :");
+var i;
+for(i=0;i<size;i++)
+{
+inputArray[i] = prompt("Enter element" + (i+1));
+}
+var n = prompt("Enter the Element to be search :");
+for(i=0;i<size;i++)
+{
+if(inputArray[i]==n)
+{
+document.write("Element found at position" +i);
+break;
+}
+}
+if(i==size)
+{
+document.write("Element not found");
+}
+</script>
+</body>
+</html>
