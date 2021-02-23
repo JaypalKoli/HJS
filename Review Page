@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Bike Reviews</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <h1 align="center">Bike Reviews</h1>
+    <div align="Center">
+        <a href="Home_page.html">Home</a>&nbsp; &nbsp; &nbsp;
+        <a href="Contact Us Page.html">Contact Us</a>&nbsp; &nbsp; &nbsp;
+        <a href="Services.html">Services</a>&nbsp; &nbsp; &nbsp;
+        <a href="About_Us.html">About Us</a>&nbsp; &nbsp; &nbsp;
+    </div>
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <p>
+        <b> Bike e-shop is India's first and largest online marketplace to buy & sell used cars,
+            bikes, scooters, bicycles, aero planes. Find us to check car pricing, bikes prices, ...</b>
+
+    </p>
+    <img src="Images/homepage2.jfif">
+    <p>
+    <pre>
+        If you are looking for a super bike to go on long stretches,
+        i think this is the one to consider. I have rode really long distances close to 800 kms in 12 hours.
+        This gives you utmost comfort and confidence to ride on indian roads. The power at disposal boosts
+        the confidence to take easy overtaking. In simple words you get a quality superbike for the money you 
+        pay and on top of it I feel taking th e pride of owning an world renowned Iconic brand which has a lot 
+        of history to it. Many dream of owning one and I owe one of it.
+        </pre>
+    </p>
+    <img src="Images/homepage3.jfif">
+    <p>
+    <pre>
+        Hello friends, I own CBR 250 R which comes from the premium sports bike series of Honda CBR. The main 
+        attractions include full front fairing and sporty rear end. Of course its 250cc four stroke liquid cooled 
+        engine makes it a perfect bike for the speed freaks. It has a diamond frame with TUSS structure. Its seat 
+        is split form which makes it look stunning. It has combined anti-lock braking system that makes its braking
+        system very effective. It has been a year I am driving it and I have not faced any issues so far.
+    </pre>
+    </p>
+    <img src="Images/homepage4.jfif">
+    <p>
+    <pre>
+        its milage is low. if you have enough money to buy it and can efford it fuel money this bike is made for you.
+        This is sports bike and its look is killer. KTM RC 200 has a good pickup speed that none another 200cc bikes will have.
+        Ktm duke is powerful bike. I love my first ride on it. Its gear, suspension, acceleration are excellent but its average 
+        is low. Ktm company should work on bike average. But its not a big deal. All over bike is very good. 
+    </pre>
+    </p>
+    <img src="Images/homepage5.jfif">
+    <p>
+    <pre>
+        The bobber: stripped down, simple, and solo-saddled. Such is the 2020 Indian Scout Bobber Sixty. Understated with blacked-out 
+        details, this cruiser is void of glistening chrome, valanced fenders, or fringe. The brushed aluminum block lettering plainly 
+        laid out on the side of the tank and brushed metal veins on the engine are the only shining details that draw the eye. Although 
+        it is one of the smallest-displacement Scouts from Indian, the Scout Bobber Sixty is still brawny, yet approachable.
+
+    </pre>
+    </p>
+    <footer>
+        <br>
+        <hr>
+        <div align="center">
+            <h2>Follow us on</h2>
+            <a href="https://accounts.google.com/"> <i class="fa fa-envelope"
+                    style="font-size:40px; margin-right: 15px;"></i> </a> &nbsp; &nbsp;
+            <a href="https://www.facebook.com"> <i class="fa fa-facebook-official"
+                    style="font-size:40px; margin-right: 15px;"></i> </a>&nbsp; &nbsp;
+            <a href="https://www.instagram.com"> <i class="fa fa-instagram"
+                    style="font-size:40px; margin-right: 15px;"></i>
+            </a> &nbsp; &nbsp;
+            <a href="https://www.linkedin.com/in/jaypal-koli-68949a1a6/"> <i class="fa fa-linkedin-square"
+                    style="font-size:36px; margin-right: 15px;"></i> </a>
+        </div>
+    </footer>
+
+    <script src="" async defer></script>
+</body>
+
+</html>
