@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body text="maroon" bgcolor="silver">
+<h1>Resume</h1>
+<img src="G:\SY_118_Dipak_Ravindra_Jaiswal.jpg"align="center" width="150px"height="150px">
+<p><b>Name:- </b>Dipak Ravindra Jaiswal</p>
+<p><b>Address:- </b>3B,Mahatma Fule Nagar,Shingave Road,Shirpur Dist-Dhule</p>
+<p><b>pin:-</b>425405</p>
+<p><b>Mobile Number:- 9970520323</p>
+<p><b>Email ID:- </b>dipakrjaiswal3393@gmail.com</p>
+<p><b>Objective:- </b>I currently Pursuing Btech In Computer Engineering At R.C.Patel Institute Of Techonology,Shirpur</p>
+<p><h2><b>Educational Qualification </b></h2></p>
+<ul>
+<table border ="1" bordercolor="black" bgcolour="yellow">
+<tr>
+<th>Education</th>
+<th>College Name</th>
+</tr>
+<tr>
+<td>S.S.C</td>
+<td>R.C.Patel Primary & Higher Secondary School,Shirpur.</td>
+</tr>
+<tr>
+<td>H.S.C</td>
+<td>DR.P.R.Ghogray.Jr.College (SPDM),Shirpur.</td>
+</tr>
+<tr>
+<td>DEGREE</td>
+<td>S.Y.Btech (Comupter Engineering)at R.C.Patel.Institute of Techonology,Shirpur.</td>
+</table>
+</ul>
+<h2><b>Courses</b></h2>
+<ul> 
+<table border="1" cellpaddding="5" cellspacing="5"bordercolor="black" bgcolour="lemon">
+<tr>
+<th>Course's Name</th>
+<tr>
+<td>"Business English Management & Leadership </td>
+</tr>
+<tr>
+<td>Finance And Economics</td>
+</tr>
+<tr>
+<td>Marketing And Sales</td>
+</tr>
+<tr>
+<td>Energy Litercy</td>
+</tr>
+</table>
+</ul>
+<h2><b>Project</b><h2>
+<ul>
+<li>No project</li>
+</ul>
+<h2><b>Sport</b></h2>
+<ul>
+<li>Cricket</li>
+<li>Football</li>
+</ul>
+<h2>Skills</h2>
+<ul>
+<li>C Programming</li>
+<li>CPP programming</li>
+<li>Python programming</li>
+<li>HTML & CSS</li>
+</ul>
+<h2>Hobbies</h2>
+<ul>
+<li>Listening Songs</li>
+<li>playing Cricket</li>
+<li>Gardening</li>
+</body>
+</html>
