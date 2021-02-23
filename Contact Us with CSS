@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- FontAwsomeLink -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Contact Us</title>
+</head>
+
+<body>
+    <div align="center">
+        <div>
+            <h1>CONTACT US</h1>
+        </div>
+        <a href="Home_page.html">Home Page</a> &nbsp; &nbsp;
+        <a href="About_Us.html">About Us</a> &nbsp; &nbsp;
+        <a href="Services.html">Service</a> &nbsp; &nbsp;
+        <a href="Bike_Review.html">Review</a>&nbsp; &nbsp; &nbsp;
+
+        <div>
+            <h2>Jaypal R. Koli</h2>
+            <p>Walmik nagar,behind bus stand,<br>Dhandai house,<br>Malpur,<br>Maharashtra 425408<br>Tel. 9146715844 </p>
+        </div>
+        <div>
+            <h2>Follow us on</h2>
+            <a href="https://accounts.google.com/"> <i class="fa fa-envelope"
+                    style="font-size:40px; margin-right: 15px;"></i> </a>
+            <a href="https://www.facebook.com"> <i class="fa fa-facebook-official"
+                    style="font-size:40px; margin-right: 15px;"></i> </a>
+            <a href="https://www.instagram.com"> <i class="fa fa-instagram"
+                    style="font-size:40px; margin-right: 15px;"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/jaypal-koli-68949a1a6/"> <i class="fa fa-linkedin-square"
+                    style="font-size:36px; margin-right: 15px;"></i> </a>
+        </div>
+
+        <div>
+            <h2>Write your feedback</h2>
+        </div>
+
+        <form>
+            <div>
+                <input type="text" name="" id="" placeholder="Enter your name" required="">
+                <br>
+                <input type="text" name="" id="" placeholder="Enter your mobile number" pattern="[0-9]{10}" required="">
+                <br>
+                <input type="email" name="" id="" placeholder="Enter email address"
+                    pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required="">
+                <br>
+                <textarea name="" id="" cols="20" rows="5" placeholder="Enter your address"></textarea>
+                <br>
+                <input type="text" name="" id="" placeholder="Enter your pincode">
+                <br>
+                <p><b>Please select your gender:</b></p>
+                <input type="radio" id="male" name="gender" value="male">
+                <label for="male">Male</label><br>
+                <input type="radio" id="female" name="gender" value="female">
+                <label for="female">Female</label><br>
+                <input type="radio" id="other" name="gender" value="other">
+                <label for="other">Other</label>
+                <br>
+            </div>
+            <div>
+                <label for="state"><b>Select your state</b>:</label>
+                <select name="state" id="state">
+                    <option value="Maharashtra">Maharastra</option>
+                    <option value="Karnataka" selected="">Karnataka</option>
+                    <option value="Uttar Pradesh">Uttar Pradesh</option>
+                    <option value="Tamil Nadu">Tamil Nadu</option>
+                    <option value="Kerala">Kerala</option>
+                </select>
+                <br><br>
+
+                <label for="City"><b>Select your City</b>:</label>
+                <select name="City" id="City">
+                    <option value="Shirpur">Shirpur</option>
+                    <option value="Dondaicha" selected="">Dondaicha </option>
+                    <option value="Malpur">Malpur</option>
+                    <option value="Shindkheda">Shindkheda</option>
+                    <option value="Jalgoan">Jalgoan</option>
+                </select>
+                <br>
+
+                <p><b>Choose your higher education qualification</b></p>
+                <input type="checkbox" id="qualification1" name="qualification1" value="10th">
+                <label for="qualification1"> 10th</label><br>
+                <input type="checkbox" id="qualification2" name="qualification2" value="12th">
+                <label for="qualification2"> 12th</label><br>
+                <input type="checkbox" id="qualification3" name="qualification3" value="Bachelor degree">
+                <label for="qualification3"> Bachelor degree</label><br>
+                <textarea name="" id="" cols="30" rows="10" placeholder="Write your review"
+                    style="margin: 5px; width: 20vw; font-size: 16px; padding: 5px;"></textarea> <br>
+                <input type="reset" value="Reset">
+                <input type="submit" value="Submit">
+                <footer>&copy; Copyright 2020 html &reg; Jaypal Koli </footer>
+        </form>
+    </div>
+</body>
+
+</html>
