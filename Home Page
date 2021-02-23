@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Bike e-shop</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <h1 align="center">Bike e-shop</h1>
+    <div align="Center">
+        <a href="About_Us.html">About Us</a>&nbsp; &nbsp; &nbsp;
+        <a href="Contact Us Page.html">Contact Us</a>&nbsp; &nbsp; &nbsp;
+        <a href="Services.html">Services</a>&nbsp; &nbsp; &nbsp;
+        <a href="Bike_Review.html">Reviews</a>&nbsp; &nbsp; &nbsp;
+    </div>
+    <h2 align="center">Welcome to your Bike e-Shop </h2>
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <p>
+        <b> Bike e-shop is India's first and largest online marketplace to buy & sell used cars,
+            bikes, scooters, bicycles, aero planes. Find us to check car pricing, bikes prices, ...</b>
+
+    </p>
+    <img src="Images/homepage2.jfif" align="left" height="300px" width="50%">
+    <img src="Images/homepage3.jfif" align="right" height="300px" width="50%">
+    <img src="Images/homepage4.jfif" align="right" height="300px" width="50%">
+    <img src="Images/homepage5.jfif" align="left" height="300px" width="50%">
+    <footer>
+        <br>
+        <div align="center">
+            <h2>Follow us on</h2>
+            <a href="https://accounts.google.com/"> <i class="fa fa-envelope"
+                    style="font-size:40px; margin-right: 15px;"></i> </a> &nbsp; &nbsp;
+            <a href="https://www.facebook.com"> <i class="fa fa-facebook-official"
+                    style="font-size:40px; margin-right: 15px;"></i> </a>&nbsp; &nbsp;
+            <a href="https://www.instagram.com"> <i class="fa fa-instagram"
+                    style="font-size:40px; margin-right: 15px;"></i>
+            </a> &nbsp; &nbsp;
+            <a href="https://www.linkedin.com/in/jaypal-koli-68949a1a6/"> <i class="fa fa-linkedin-square"
+                    style="font-size:36px; margin-right: 15px;"></i> </a>
+        </div>
+    </footer>
+
+    <script src="" async defer></script>
+</body>
+
+</html>
